@@ -1,0 +1,2 @@
+ Commande d'installation et de chargement du package :
+ if (!require("AuguPack")) install.packages("https://gitlab.com/Syafu/augupack/-/archive/master/augupack-master.tar.gz", type = "source", repos = NULL)

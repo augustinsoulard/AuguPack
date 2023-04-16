@@ -1,0 +1,23 @@
+Package: AuguPack
+Type:Package
+Title: AuguPack
+Version: 0.0.10
+Date:2020-08-06
+Imports: multcomp,emmeans, stringr
+Authors@R: 
+    person(given = "Augustin",
+           family = "Soulard",
+           role = c("aut", "cre"),
+           email = "augustin.soulard@yahoo.fr",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Maintainer: Augustin Soulard <augustinsoulard@yahoo.fr>
+Description: Contain diverse function for data management and ecology analysis
+License: GPL-3
+Lazyload: no
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+
+
